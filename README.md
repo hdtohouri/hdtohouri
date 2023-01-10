@@ -1,6 +1,6 @@
 ### Hi, I'm Henoc 👋 
 
-I'm an aspirant *Fullstack Devleoper*.
+I'm an aspirant *Fullstack Dev*.
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px"/></a> 
