@@ -1,10 +1,10 @@
-##Hi, I'm Henoc 👋
+## Hi, I'm Henoc 👋
 
 I'm an an aspirant *Fullstack Devleoper*.
 
-###Get in touch
+### Get in touch
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="250px"/> (https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50px"/> (https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/)
 
 <!--
 **hdtohouri/hdtohouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
