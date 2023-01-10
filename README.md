@@ -4,8 +4,8 @@ I'm an an aspirant *Fullstack Devleoper*.
 
 ### Get in touch
 
-![https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/]
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px"/> 
+![]
+ <a href="https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px"/></a> 
 <!--
 **hdtohouri/hdtohouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
