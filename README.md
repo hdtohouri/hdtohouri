@@ -12,7 +12,7 @@ I'm an an aspirant *Fullstack Devleoper*.
 Here are some ideas to get you started:
  
 
-- 🔭 I’m currently working on Frontend development
+- 🔭 I’m currently working on Frontend development 
 - 🌱 I’m currently learning HTM / CSS / Javascrp
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
 
--🔭 I’m currently working with HTML , CSS, and JS
--🌱 I’m currently learning React Native, CodeIgniter, Flutter
--👯 I’m looking to collaborate with Web Developers.
--💬 How to reach me :  henocdesiretohouri@gmail.com
+-🔭 I’m currently working with HTML , CSS, and JS <br>
+-🌱 I’m currently learning React Native, CodeIgniter, Flutter <br>
+-👯 I’m looking to collaborate with Web Developers. <br>
+-💬 How to reach me :  henocdesiretohouri@gmail.com <br>
