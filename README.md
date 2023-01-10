@@ -4,7 +4,7 @@ I'm an an aspirant *Fullstack Devleoper*.
 
 ### Get in touch
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50px"/> (https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px"/> [https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/]
 
 <!--
 **hdtohouri/hdtohouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="250px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="250px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="250px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px"/>
 
 -🔭 I’m currently working with HTML , CSS, and JS
 -🌱 I’m currently learning React Native, CodeIgniter, Flutter
