@@ -10,9 +10,8 @@ I'm an aspirant *Fullstack Dev*.
 - HTML / CSS<br>
 - JavaScript<br>
 
--📖 I am currently <br>
--  learning Reactjs <br>
--  React Native <br>
+-📖 I am currently learning<br>
+-  Reactjs / React Native <br>
 -  Flutter <br>
 -  CodeIgniter <br>
 
