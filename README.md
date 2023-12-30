@@ -9,22 +9,7 @@ If you're looking for a motivated and enthusiastic developer with a focus on bac
 -🤝 let's connect!<br>
 
 <a href="https://www.linkedin.com/in/tohouri-henoc-desire-92b5b0217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px"/></a> 
-
--🔭 I’m currently working with<br>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="50px"/>
-
--📖 I am currently learning<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
-
-### 🛠️ Languages and Tools:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px"/><br>
-
+Email : henocdesiretohouri@gmail.com 
           
           
           
